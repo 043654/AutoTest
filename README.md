@@ -5,4 +5,4 @@ jmeter接口自动化和性能
 Javase，maven
 testng,springboot
 sql
-
+ui自动化
