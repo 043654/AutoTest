@@ -6,3 +6,4 @@ Javase，maven
 testng,springboot
 sql
 ui自动化
+这是qa提交
